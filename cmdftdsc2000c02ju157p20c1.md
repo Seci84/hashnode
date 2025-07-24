@@ -3,7 +3,6 @@ title: "About Me"
 datePublished: Wed Jul 23 2025 10:22:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmdftdsc2000c02ju157p20c1
 slug: about-me
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753326433910/bcdd1aab-35d8-451b-ba7b-241e3fd9ee90.png
 tags: ml-engineer, ai-engineer, model-optimization, infrastructurengineer
 
 ---
