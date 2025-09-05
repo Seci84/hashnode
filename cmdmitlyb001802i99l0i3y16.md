@@ -5,6 +5,7 @@ seoDescription: "Confused about whether a task belongs to your AI team or dev te
 datePublished: Mon Jul 28 2025 03:00:50 GMT+0000 (Coordinated Universal Time)
 cuid: cmdmitlyb001802i99l0i3y16
 slug: the-moment-you-treat-your-ai-team-like-devs-your-ai-dies
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757064135142/f5f74797-b1a3-48b5-90b8-aec94e8ad43e.webp
 tags: ai, product-management, tech-leadership, productowner, ai-product-manager, ai-projects
 
 ---
