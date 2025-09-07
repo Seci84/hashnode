@@ -5,6 +5,7 @@ seoDescription: "Learn how quantization reduces AI model size, boosts inference 
 datePublished: Fri Jul 25 2025 10:33:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmdioo0r1000702jy4h3q2lu0
 slug: efficient-model-optimization-with-quantization-a-practical-overview
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757222268859/1b95108a-700a-4410-ac67-5042fa7113f7.png
 tags: ai-engineer, edge-ai, onnx, modeloptimization
 
 ---
