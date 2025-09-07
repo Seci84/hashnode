@@ -5,6 +5,7 @@ seoDescription: "Venture capital is pouring billions into AI startups—but are 
 datePublished: Fri Aug 01 2025 10:32:31 GMT+0000 (Coordinated Universal Time)
 cuid: cmdsopve6000802kzeaojb93v
 slug: why-ai-startups-keep-repeating-the-history-of-bubble-crashes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757222025607/52063833-21a6-41c7-b066-936ee4f7ec07.png
 tags: venture-capital, ai-startups, startup-funding
 
 ---
